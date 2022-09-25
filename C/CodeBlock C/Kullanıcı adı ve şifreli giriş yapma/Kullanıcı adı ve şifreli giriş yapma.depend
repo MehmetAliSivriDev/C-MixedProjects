@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644316971 source:c:\users\sivri\documents\codeblock c\kullanýcý adý ve þifreli giriþ yapma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

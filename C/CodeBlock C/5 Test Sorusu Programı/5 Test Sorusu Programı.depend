@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644425351 source:c:\users\sivri\documents\codeblock c\5 test sorusu programý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
