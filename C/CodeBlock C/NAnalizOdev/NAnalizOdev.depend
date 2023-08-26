@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679834055 source:c:\users\sivri\documents\yazýlým\c\codeblock c\nanalizodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

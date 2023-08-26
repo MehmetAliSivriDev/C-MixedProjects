@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684176234 source:c:\users\sivri\documents\yazýlým\c\codeblock c\aatks2_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+
